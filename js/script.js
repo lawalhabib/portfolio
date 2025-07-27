@@ -1,6 +1,6 @@
 /* type */
 var typed = new Typed(".typing",{
-    strings:["","web developer", "web designer", "web manager", "V.A assistant"],
+    strings:["","web developer", "web designer", "web manager", "V.A assistant", "WordPress"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
